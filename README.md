@@ -1,5 +1,7 @@
 # STM32F1-series-MP3
-STM32 software-based mp3 player via SD card (SDIO 4bits)
+
+
+## STM32 software-based mp3 player via SD card (SDIO 4bits)
 
 
 ### This is a STM32F1 series-based soft mp3 player utilizing the helix mp3 decode library.
